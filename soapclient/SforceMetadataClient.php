@@ -30,7 +30,7 @@ class SforceMetadataClient {
   public $sforce;
   protected $sessionId;
   protected $location;
-  protected $version = '27.0';
+  protected $version = '57.0';
 
   protected $namespace = 'http://soap.sforce.com/2006/04/metadata';
 
